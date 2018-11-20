@@ -1,12 +1,12 @@
 H1 {
-font-size: 100px;
+font-size: 200px;
     color: red;
     font-family: 'Allerta Stencil', sans-serif;
     margin-top: 0;
 }
 
 H2 {
-    font-size: 70px;
+    font-size: 100px;
     color: ghostwhite;
 font-family: 'Spicy Rice', cursive;
     margin-top: 0;
@@ -14,8 +14,8 @@ font-family: 'Spicy Rice', cursive;
 }
 
 body {
-    font-size: 30px;
-    color:aqua;
+    font-size: 80px;
+    color: black;
     font-family: 'Kumar One Outline', cursive;
     background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
     margin-top: 0;
