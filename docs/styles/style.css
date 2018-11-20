@@ -17,6 +17,7 @@ body {
     font-size: 30px;
     color:aqua;
     font-family: 'Kumar One Outline', cursive;
+    background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
     background-image: url('/docs/images/cake.jpg');
     margin-top: 0;
 
